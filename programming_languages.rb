@@ -1,4 +1,3 @@
-require "pry"
 
 def reformat_languages(languages)
   new_langs = {}
@@ -17,7 +16,6 @@ def reformat_languages(languages)
 
   
   
-  binding.pry
   new_langs
   
 end
